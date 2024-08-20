@@ -1,8 +1,8 @@
 # Python-Data-Quest-Analyzing-Stack-Overflow-Survey-2020
-eda-stackoverflow-survey-project
+<h1>eda-stackoverflow-survey-project
 Exploratory Data Analysis Of StackOverFlow Survey
-Data 2020
-By - ABHISHEK TRIPATHI
+Data 2020</h1>
+By - **Md Kaif**
 Analyzing responses from the Stack OverFlow2020
 
 Introduction
