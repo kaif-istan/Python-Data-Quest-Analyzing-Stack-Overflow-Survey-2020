@@ -1,7 +1,7 @@
 # Python-Data-Quest-Analyzing-Stack-Overflow-Survey-2020
-<h1>eda-stackoverflow-survey-project
+<h3>eda-stackoverflow-survey-project
 Exploratory Data Analysis Of StackOverFlow Survey
-Data 2020</h1>
+Data 2020</h3>
 By - **Md Kaif**
 Analyzing responses from the Stack OverFlow2020
 
