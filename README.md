@@ -1,4 +1,4 @@
-# Abhishek_Tripathi_EDA_StackOverFlow
+# Python-Data-Quest-Analyzing-Stack-Overflow-Survey-2020
 eda-stackoverflow-survey-project
 Exploratory Data Analysis Of StackOverFlow Survey
 Data 2020
